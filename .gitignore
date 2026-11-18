@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+/.rag-cache/
+/data/
+*.csv
+*.pt
+*.safetensors
+.ipynb_checkpoints/
